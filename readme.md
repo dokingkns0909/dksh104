@@ -1,5 +1,5 @@
 # **Soccer-C Project**
-<a href="https://www.instagram.com/chae_rrys/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/chae_rrys/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
 |조원|
